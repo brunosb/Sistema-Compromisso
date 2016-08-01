@@ -1,0 +1,17 @@
+body {
+	font-family: Verdana;
+	background: white;
+	background: -webkit-linear-gradient(white, blue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white, blue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, blue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, blue); /* Standard syntax */
+}
+
+#formLogar{
+	text-align: center;
+}
+
+#rodape{
+	text-align: center;
+	font-weight: bold;
+}
